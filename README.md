@@ -36,40 +36,33 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](img/team.gif)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+The page for project is hosted on GitHub Pages: [My-team-Challenge](https://carolms23.github.io/My-Team-Challenge/)
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+For project I used only HTML and CSS, mainly with properties that helps responsiveness, such as Grid and Flexbox.
+
+I've learned more about using figcaption rotate and writing-mode CSS. :)
+
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Writing-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [My-team-Challenge](https://carolms23.github.io/My-Team-Challenge/)
+- GitHub [@github.com/carolms23](https://github.com/carolms23/)
+
